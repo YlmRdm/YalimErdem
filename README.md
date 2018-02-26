@@ -1,2 +1,2 @@
 # YalimErdem
-My portfolio and blog web app 
+This is a Django portfolio and  blog-app.
